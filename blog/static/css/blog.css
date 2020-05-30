@@ -45,15 +45,3 @@ h1, h2, h3, h4 {
     color:  #ED351E;
     font-size: 25pt;
 }
-
-.page-footer {
-    background-color: #EF543A;
-    margin-bottom: : 0;
-    padding: 10px 10px 10px 50px;
-}
-
-.page-footer h1, .page-footer h1 a, .page-footer h1 a:visited, .page-footer h1 a:active {
-    color: #FFFFFF;
-    font-size: 30pt;
-    text-decoration: none;
-}
